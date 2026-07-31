@@ -4,7 +4,8 @@
 
 This repository contains examples and code for asynchronous document synthesis in Python.
 
-![Output](The Async Document Synthesizer/Output.png)
+<img width="909" height="420" alt="Output" src="https://github.com/user-attachments/assets/ef13e5c3-7f80-4c13-8184-98f9ea758fc8" />
+
 
 ## Overview
 
@@ -20,7 +21,6 @@ The Async Document Synthesizer demonstrates patterns for concurrently processing
 1. Inspect the examples in the repository.
 2. Run the example scripts (usually with `python` or `python -m` depending on the module layout).
 
-## Notes
 
-- The README includes a reference to the image at `The Async Document Synthesizer/Output.png`. Ensure that path exists in the repository so GitHub can render the image.
-- If the image does not render, verify the filename and path for spaces or capitalization.
+
+
