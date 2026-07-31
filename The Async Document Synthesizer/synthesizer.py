@@ -3,7 +3,7 @@ import aiohttp
 import time 
 import os
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "PASTE_YOUR_GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "GROQ_API_KEY")
 
 # Coroutine 1:
 async def fetch_wikipedia_summary(session, topic):
